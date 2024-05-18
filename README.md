@@ -1,2 +1,4 @@
 # Coding-Week-Ayush-Prateek-
-Contains tasks which I've made.
+This repo contains tasks which I've made.
+The website has been hosted as well.
+
